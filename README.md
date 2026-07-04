@@ -203,10 +203,10 @@ A continuously growing collection of algorithmic problem-solving work, reflectin
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+<a href="https://linkedin.com/in/kumaran-m-a995b037b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=94A3B8" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:kumaran2005m@gmail.com">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=94A3B8" />
 </a>
 <a href="https://twitter.com/your-twitter-handle" target="_blank">
