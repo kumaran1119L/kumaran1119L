@@ -1,107 +1,232 @@
-<h1 align="center">Hi 👋, I'm Kumaran M</h1>
-<h3 align="center">AI & Machine Learning Student | Python Developer | Future AI Engineer 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Building+Real+World+AI+Projects;Always+Learning+New+Things" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Kumaran%20M&fontSize=52&fontColor=E2E8F0&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+(AI%2FML);Turning+Data+into+Intelligent+Decisions;Currently+Mastering+Deep+Learning+%26+TensorFlow;Building+AI+Crop+Doctor+%F0%9F%8C%BE" alt="Typing SVG" />
+</a>
 
-🎓 B.E. CSE (Artificial Intelligence & Machine Learning)
+<br/><br/>
 
-🏫 K S Rangasamy College of Technology
+<img src="https://img.shields.io/badge/AI%2FML-B.E.%20CSE-0F172A?style=for-the-badge&labelColor=1E293B&color=334155" />
+<img src="https://img.shields.io/badge/Year-2nd%20Year-0F172A?style=for-the-badge&labelColor=1E293B&color=334155" />
+<img src="https://img.shields.io/badge/Location-India-0F172A?style=for-the-badge&labelColor=1E293B&color=334155" />
 
-🌱 Currently Learning
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- FastAPI
-- React
+</div>
 
-🚀 Current Project
-- 🌿 AI Crop Doctor
+<br/>
 
-🎯 Goal
-- Become an AI Engineer
-- Crack Top Product Company Placements
-- Build impactful AI products
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
----
+## About Me
 
-## 🛠 Languages & Tools
+I'm **Kumaran M**, a second-year Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at K.S. Rangasamy College of Technology.
 
-<p align="center">
+I'm on a focused path toward becoming an **AI Engineer at a top product-based company**, driven by a genuine interest in building intelligent systems that solve real, tangible problems — not just academic exercises.
 
-<img src="https://skillicons.dev/icons?i=python,c,git,github,mongodb,tensorflow,react,fastapi,vscode"/>
+My current work centers on applying machine learning to practical domains, most notably an AI-powered crop diagnosis system, while building a solid foundation in the tools and frameworks that power modern AI products.
 
-</p>
+```python
+class Kumaran:
+    def __init__(self):
+        self.role = "AI/ML Engineer in the making"
+        self.location = "India"
+        self.focus = ["Machine Learning", "Deep Learning", "Full-Stack AI Systems"]
+        self.currently_building = "AI Crop Doctor"
 
-<p align="center">
+    def philosophy(self):
+        return "Learn deeply. Build honestly. Ship things that matter."
+```
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+## Tech Stack
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+**Languages & Core Tools**
 
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,c,git,github,mongodb&theme=dark" />
+</div>
 
----
+**Data & Analysis**
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+</div>
 
-<p align="center">
+**Currently Learning**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumaran1119L&show_icons=true&theme=tokyonight"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,fastapi,react&theme=dark" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaran1119L&layout=compact&theme=tokyonight"/>
+<br/>
 
-</p>
+<div align="center">
 
----
+| Category | Stack |
+|---|---|
+| **Languages** | Python, C |
+| **Data Science** | NumPy, Pandas, Matplotlib |
+| **Database** | MongoDB |
+| **Version Control** | Git, GitHub |
+| **In Progress** | Machine Learning, Deep Learning, TensorFlow, FastAPI, React |
 
-## 🔥 GitHub Streak
+</div>
 
-<p align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaran1119L&theme=tokyonight"/>
+## Featured Projects
 
-</p>
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🚀 Featured Projects
+### 🌾 AI Crop Doctor
+**Flagship Project**
 
-🌿 AI Crop Doctor
+An AI-driven system designed to diagnose crop diseases and support farmers with actionable, data-backed insights — combining computer vision and machine learning for real-world agricultural impact.
 
-📊 Team Performance Analysis System
+`Python` `Machine Learning` `Computer Vision`
 
-📈 Student Marks Prediction
+</td>
+<td width="50%">
 
-💻 HackerRank Solutions
+### Team Performance Analysis System
+A data analysis tool built to evaluate and visualize team performance metrics, translating raw data into clear, actionable insights.
 
----
+`Python` `Pandas` `Data Visualization`
 
-## 📈 Profile Views
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<p align="center">
+### Student Marks Prediction
+A predictive model that estimates student academic performance using regression techniques on historical data.
 
-<img src="https://komarev.com/ghpvc/?username=kumaran1119L&label=Profile%20Views&color=blue&style=for-the-badge"/>
+`Python` `NumPy` `Machine Learning`
 
-</p>
+</td>
+<td width="50%">
 
----
+### Python Practice & HackerRank Solutions
+A continuously growing collection of algorithmic problem-solving work, reflecting consistent practice in data structures, algorithms, and core Python.
 
-## 📫 Connect With Me
+`Python` `DSA` `Problem Solving`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/
-kumaran-m-a995b037b
-)
+</td>
+</tr>
+</table>
 
-📧 Email: kumaran2005m@gmail.com
+</div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-⭐ "Consistency beats talent when talent doesn't stay consistent."
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kumaran1119L&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaran1119L&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaran1119L&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumaran1119L&theme=react-dark&hide_border=true&bg_color=0D1117&color=94A3B8&line=CBD5E1&point=E2E8F0" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>GitHub Trophies</b></summary>
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kumaran1119L&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</div>
+
+</details>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## Roadmap — 2026
+
+<div align="center">
+
+| Goal | Focus Area |
+|---|---|
+| 🎯 | Build production-grade ML models with real deployment experience |
+| 🎯 | Gain deep proficiency in TensorFlow and neural network architectures |
+| 🎯 | Ship **AI Crop Doctor** as a fully deployed, usable application |
+| 🎯 | Learn FastAPI and React to build complete end-to-end AI products |
+| 🎯 | Earn recognized certifications in Machine Learning and Deep Learning |
+| 🎯 | Contribute to open-source AI/ML projects |
+| 🎯 | Secure an internship in an AI/ML engineering role |
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## Certifications
+
+<div align="center">
+
+<!-- Add certifications as you earn them -->
+<img src="https://img.shields.io/badge/Certification-Coming%20Soon-1E293B?style=for-the-badge&labelColor=0F172A&color=334155" />
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=94A3B8" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=94A3B8" />
+</a>
+<a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=94A3B8" />
+</a>
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=94A3B8" />
+</a>
+
+</div>
+
+<div align="center">
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kumaran1119L&label=Profile%20Views&color=334155&style=flat" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" width="100%"/>
+
+<sub>Designed with intent — built for the long game.</sub>
+
+</div>
